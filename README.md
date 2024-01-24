@@ -1,1 +1,1 @@
-# papaglipay-aws-docker-swarm
+# paglipay-aws-docker-swarm
