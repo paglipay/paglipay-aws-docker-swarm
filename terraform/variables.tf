@@ -55,6 +55,7 @@ variable "company" {
 variable "project" {
   type        = string
   description = "Project name for resource tagging"
+  default     = "Paglipay-Aws-Docker-Swarm"
 }
 
 variable "billing_code" {
