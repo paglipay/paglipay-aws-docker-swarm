@@ -60,6 +60,7 @@ variable "project" {
 variable "billing_code" {
   type        = string
   description = "Billing code for resource tagging"
+  default     = "001"
 }
 
 variable "naming_prefix" {
